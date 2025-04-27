@@ -1,0 +1,30 @@
+ body{
+    background-color: cyan;
+    text-align: center;
+ }
+ table,
+ tr,
+ td {
+     border-collapse: collapse;
+     width: 500px;
+     border: 1px solid rgb(0, 17, 255);
+     background-color: rgba(220, 220, 249, 0.845);
+     height: 50px;
+    } 
+
+th {
+    background-color: rgb(230, 169, 13);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
